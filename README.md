@@ -11,18 +11,18 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from [Rudrabha](https://github.com/Rudrabha/Wav2Lip).
 
-**Video: **
+**Video:**
 ---------
 <i>👉 Trump Speaking in Telugu (An Indian language):</i><br>
 ![Video](https://github.com/snehitvaddi/Deepfake-using-Wave2Lip/blob/main/Audio%20and%20Video/0-video.gif)
 
-**How to use it: **
+**How to use it:**
 ---------
 - We need a base video which needs to be lip synched.
 - An audio file of any language to mimic.
 - That's all you need to lip sync.
 
-**Highlights: **
+**Highlights:**
 ----------
  - Lip-sync videos to any target speech with high accuracy :100:
  - The audio source can be any file supported by `FFMPEG` containing audio data: `*.wav`, `*.mp3` or even a video file, from which the code will automatically extract the audio.
