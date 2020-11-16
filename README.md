@@ -8,7 +8,7 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 |   📚 Colab Notebook   |
 |-------------|
 | [Try It Now](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing) |
---------
+
 ## Video:
 <i>Trump Speaking in Telugu (An Indian language):</i><br>
 ![Video](https://github.com/snehitvaddi/Deepfake-using-Wave2Lip/blob/main/Audio%20and%20Video/0-video.gif)
