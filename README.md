@@ -18,7 +18,11 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 ![Video](https://github.com/snehitvaddi/Deepfake-using-Wave2Lip/blob/main/Audio%20and%20Video/0-video.gif)
 
-**How to use it:**
+**Architecture:**
+---------
+This approach generates accurate lip-sync by learning from an ``already well-trained lip-sync expert``. Unlike previous works that employ only a reconstruction loss or train a discriminator in a GAN setup, we use a pre-trained discriminator that is already quite accurate at detecting lip-sync errors. We show that fine-tuning it further on the noisy generated faces hampers the discriminator's ability to measure lip-sync, thus also affecting the generated lip shapes.
+
+**Try it yourself:**
 ---------
 - We need a base video which needs to be lip synched.
 - An audio file of any language to mimic.
@@ -29,6 +33,6 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
  - Lip-sync videos to any target speech with high accuracy :100:
  - The audio source can be any file supported by `FFMPEG` containing audio data: `*.wav`, `*.mp3` or even a video file, from which the code will automatically extract the audio.
 
-**👁‍ Creator Disclaimer**
+**Creator Disclaimer**
 --------
 All results from this open-source code or our [demo website](https://bhaasha.iiit.ac.in/lipsync) should only be used for research/academic/personal purposes only. As the models are trained on the <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html">LRS2 dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
