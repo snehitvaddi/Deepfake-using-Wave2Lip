@@ -1,4 +1,4 @@
-# Wav2Lip: Accurately Lip-sync Videos In Any Language.
+# ⚡ Wav2Lip: Accurately Lip-sync Videos In Any Language. ⚡
 
 Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild</b></i> published at ACM Multimedia 2020.
 |    🧾 Official Paper    |   📑 Project Page   |   🔑 Original Repo |
@@ -11,7 +11,7 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.
 
-**Video:**
+**🖼 Video:**
 ---------
 <i>👉 Trump Speaking in Telugu (An Indian language):</i><br>
 <b>See complete video with lip-synching audio here:[📽 Youtube](https://www.youtube.com/watch?v=D3b7RwuNEWQ)</b><br>
