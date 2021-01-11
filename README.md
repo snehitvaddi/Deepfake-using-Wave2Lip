@@ -11,12 +11,12 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.
 
-**🖼 Video:**
+** 🧠 Video Outpout:**
 ---------
 <i>👉 Trump Speaking in Telugu (An Indian language):</i><br>
 <b>See complete video with lip-synching audio here:[📽 Youtube](https://www.youtube.com/watch?v=D3b7RwuNEWQ)</b><br>
 
-![Video](https://github.com/snehitvaddi/Deepfake-using-Wave2Lip/blob/main/Audio%20and%20Video/0-video.gif)
+[<img src="https://github.com/snehitvaddi/Deepfake-using-Wave2Lip/blob/main/Audio%20and%20Video/0-video.gif" width=700 height=400>](https://www.youtube.com/watch?v=D3b7RwuNEWQ)
 
 **🗺 Architecture:**
 ---------
