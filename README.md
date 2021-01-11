@@ -11,7 +11,7 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.
 
-**🧠 Video Outpout:**
+**🧠 Video Output:**
 ---------
 ###### 👉 Trump Speaking in Telugu (An Indian language):<br>
 
