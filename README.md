@@ -7,7 +7,7 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 |💡 Colab link|
 |:-:|
-|[Colab](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing)|
+|[Notebook](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing)|
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.
 
