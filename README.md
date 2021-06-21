@@ -29,7 +29,13 @@ This approach generates accurate lip-sync by learning from an ``already well-tra
 ----------
  - Lip-sync videos to any target speech with high accuracy :100:
  - The audio source can be any file supported by `FFMPEG` containing audio data: `*.wav`, `*.mp3` or even a video file, from which the code will automatically extract the audio.
+**Ethics and Code of conduct**
+--------
+* Deepfake is not for creating inappropriate content.
+* Deepfake is not for changing faces without consent or with the intent of hiding its use.
+* Deepfake is not for any illicit, unethical, or questionable purposes.
+* Deepfake exists to experiment and discover AI techniques, for social or political commentary, for movies, and for any number of ethical and reasonable uses.
 
-**⚠Creator Disclaimer**
+**⚠ Creator Disclaimer**
 --------
 All results from this open-source code or our [demo website](https://bhaasha.iiit.ac.in/lipsync) should only be used for research/academic/personal purposes only. As the models are trained on the <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html">LRS2 dataset</a>, any form of commercial use is strictly prohibited. Please contact us for all further queries.  
