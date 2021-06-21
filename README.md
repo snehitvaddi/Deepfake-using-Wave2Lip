@@ -15,7 +15,7 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 **🗺 Architecture:**
 ---------
-This approach generates accurate lip-sync by learning from an ``already well-trained lip-sync expert``. Unlike previous works that employ only a reconstruction loss or train a discriminator in a GAN setup, we use a pre-trained discriminator that is already quite accurate at detecting lip-sync errors. We show that fine-tuning it further on the noisy generated faces hampers the discriminator's ability to measure lip-sync, thus also affecting the generated lip shapes. 
+This approach generates accurate lip-sync by learning from an ``already well-trained lip-sync expert``. Unlike previous works that employ only a reconstruction loss or train a discriminator in a GAN setup, we use a pre-trained discriminator that is already quite accurate at detecting lip-sync errors. We show that fine-tuning it on the noisy generated faces reduces the discriminator's capacity to measure lip-sync, impacting the generated lip forms as well.
 
 **🔧 Try it yourself:**
 ---------
