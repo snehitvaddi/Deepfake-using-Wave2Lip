@@ -30,7 +30,7 @@ This approach generates accurate lip-sync by learning from an ``already well-tra
  - Lip-sync videos to any target speech with high accuracy :100:
  - The audio source can be any file supported by `FFMPEG` containing audio data: `*.wav`, `*.mp3` or even a video file, from which the code will automatically extract the audio.
  
-**Ethics and Code of conduct**
+**☢ Ethics and Code of conduct**
 --------
 * Deepfake is not for creating inappropriate content.
 * Deepfake is not for changing faces without consent or with the intent of hiding its use.
