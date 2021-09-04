@@ -7,7 +7,9 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.<br>
 
-**I have made training notebook `DeepFake_Wav2Lip.ipynb` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ✌**
+💡 **I have made training notebook `DeepFake_Wav2Lip.ipynb` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ✌**<br>
+
+🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
 
 **🧠 Video Output:**
 ---------
