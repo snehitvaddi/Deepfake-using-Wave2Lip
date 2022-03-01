@@ -3,7 +3,7 @@
 Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild</b></i> published at ACM Multimedia 2020.
 |    🧾 Official Paper    |   📑 Project Page   |   🔑 Original Repo |💡 Colab link|
   |------------|-------------|-----------|:-:|
-| [Official Paper](https://arxiv.org/abs/2008.10010) | [Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Repo](https://github.com/Rudrabha/Wav2Lip) | [Notebook](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing)|
+| [Official Paper](https://arxiv.org/abs/2008.10010) | [Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Repo](https://github.com/Rudrabha/Wav2Lip) | [Updated Code](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=2OhT0w2uT4rQ)/[Notebook](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing)|
 
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.<br>
 
