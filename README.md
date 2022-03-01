@@ -5,6 +5,9 @@ Wav2Lip Repository is part of the paper: <i><b>A Lip Sync Expert Is All You Need
   |------------|-------------|-----------|:-:|
 | [Official Paper](https://arxiv.org/abs/2008.10010) | [Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Repo](https://github.com/Rudrabha/Wav2Lip) | [Updated Code](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=2OhT0w2uT4rQ)/[Notebook](https://colab.research.google.com/drive/1JOxpeVj-7LE48mMEF59uhjcbBQzmW2lj?usp=sharing)|
 
+Import the pretrained weights from [here](https://drive.google.com/drive/folders/1cxf6ywJZGWX_fuFbgyxTCEDiLn-BJgr9).
+Make sure you added this folder to your drive before executing code.
+
 <b><i>Note:</i></b> This project/paper is whole and sole referenced from <b>[Rudrabha](https://github.com/Rudrabha/Wav2Lip)</b>.<br>
 
 💡 **I have made training notebook `DeepFake_Wav2Lip.ipynb` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ✌**<br>
